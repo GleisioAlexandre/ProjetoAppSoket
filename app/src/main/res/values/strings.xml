@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjetoAppSoket</string>
+    <string name="transmitir">Transmitir</string>
+    <string name="porta">Porta</string>
+    <string name="ip_do_host">Ip do Host</string>
+    <string name="resultado">Resultado</string>
+</resources>
